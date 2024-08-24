@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hn25MNnSfoL1kBlZO52DbWXJUed+HLnFA1PijWGJPLw=",
+  "Hash": "vC7owAZHe4HLAuWAD279be37UoFVEF06VFjY2ae8/q0=",
   "Source": "RealEstate_Dapper_UI",
   "BasePath": "_content/RealEstate_Dapper_UI",
   "Mode": "Default",
@@ -4539,12 +4539,12 @@
       "OriginalItemSpec": "wwwroot\\starter\\contact.html"
     },
     {
-      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\1.jpg",
+      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p1.jpg",
       "SourceId": "RealEstate_Dapper_UI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\",
       "BasePath": "_content/RealEstate_Dapper_UI",
-      "RelativePath": "starter/images/1.jpg",
+      "RelativePath": "starter/images/p1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4555,15 +4555,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\starter\\images\\1.jpg"
+      "OriginalItemSpec": "wwwroot\\starter\\images\\p1.jpg"
     },
     {
-      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\2.jpg",
+      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p2.jpg",
       "SourceId": "RealEstate_Dapper_UI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\",
       "BasePath": "_content/RealEstate_Dapper_UI",
-      "RelativePath": "starter/images/2.jpg",
+      "RelativePath": "starter/images/p2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4574,15 +4574,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\starter\\images\\2.jpg"
+      "OriginalItemSpec": "wwwroot\\starter\\images\\p2.jpg"
     },
     {
-      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\3.jpg",
+      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p3.jpg",
       "SourceId": "RealEstate_Dapper_UI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\",
       "BasePath": "_content/RealEstate_Dapper_UI",
-      "RelativePath": "starter/images/3.jpg",
+      "RelativePath": "starter/images/p3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4593,15 +4593,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\starter\\images\\3.jpg"
+      "OriginalItemSpec": "wwwroot\\starter\\images\\p3.jpg"
     },
     {
-      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\4.jpg",
+      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p4.jpg",
       "SourceId": "RealEstate_Dapper_UI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\",
       "BasePath": "_content/RealEstate_Dapper_UI",
-      "RelativePath": "starter/images/4.jpg",
+      "RelativePath": "starter/images/p4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4612,15 +4612,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\starter\\images\\4.jpg"
+      "OriginalItemSpec": "wwwroot\\starter\\images\\p4.jpg"
     },
     {
-      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\5.jpeg",
+      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p5.jpg",
       "SourceId": "RealEstate_Dapper_UI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\",
       "BasePath": "_content/RealEstate_Dapper_UI",
-      "RelativePath": "starter/images/5.jpeg",
+      "RelativePath": "starter/images/p5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4631,15 +4631,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\starter\\images\\5.jpeg"
+      "OriginalItemSpec": "wwwroot\\starter\\images\\p5.jpg"
     },
     {
-      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\6.jpg",
+      "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p6.jpg",
       "SourceId": "RealEstate_Dapper_UI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\",
       "BasePath": "_content/RealEstate_Dapper_UI",
-      "RelativePath": "starter/images/6.jpg",
+      "RelativePath": "starter/images/p6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4650,7 +4650,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\starter\\images\\6.jpg"
+      "OriginalItemSpec": "wwwroot\\starter\\images\\p6.jpg"
     },
     {
       "Identity": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\index.html",

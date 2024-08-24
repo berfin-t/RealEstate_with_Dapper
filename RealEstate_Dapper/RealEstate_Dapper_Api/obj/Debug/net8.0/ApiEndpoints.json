@@ -92,5 +92,79 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "CreateWhoWeAreDetail",
+    "RelativePath": "api/WhoWeAreDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createWhoWeAreDetailDto",
+        "Type": "RealEstate_Dapper_Api.Dtos.WhoWeAreDetailDtos.CreateWhoWeAreDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "WhoWeAreDetailList",
+    "RelativePath": "api/WhoWeAreDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "DeleteWhoWeAreDetail",
+    "RelativePath": "api/WhoWeAreDetails",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "UpdateWhoWeAreDetail",
+    "RelativePath": "api/WhoWeAreDetails",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateWhoWeAreDetailDto",
+        "Type": "RealEstate_Dapper_Api.Dtos.WhoWeAreDetailDtos.UpdateWhoWeAreDetailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RealEstate_Dapper_Api.Controllers.WhoWeAreDetailsController",
+    "Method": "GetWhoWeAreDetailById",
+    "RelativePath": "api/WhoWeAreDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
