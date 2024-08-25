@@ -60,7 +60,7 @@ namespace RealEstate_Dapper_Api.Repositories
             }
         }
 
-        public void UpdateCategoryAsync(UpdateCategoryDto updateCategoryDto)
+        public async void UpdateCategoryAsync(UpdateCategoryDto updateCategoryDto)
         {
             string query = "Update Category Set CategoryName=@categoryName, CategoryStatus=@categoryStatus where CategoryID=@categoryID";
             var parameters = new DynamicParameters();
@@ -69,7 +69,7 @@ namespace RealEstate_Dapper_Api.Repositories
             parameters.Add("@categoryStatus", updateCategoryDto.CategoryStatus);
             using (var connection = _context.CreateConnection())
             {
-                 connection.ExecuteAsync(query, parameters);
+                 await connection.ExecuteAsync(query, parameters);
             }
         }
     }

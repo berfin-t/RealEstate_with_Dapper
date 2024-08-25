@@ -513,6 +513,62 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\PopularLocations\\antalya-484060_640.jpg",
+      "PackagePath": "staticwebassets\\images\\PopularLocations\\antalya-484060_640.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\PopularLocations\\beach-7252178_640.jpg",
+      "PackagePath": "staticwebassets\\images\\PopularLocations\\beach-7252178_640.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\PopularLocations\\ephesus-1120985_640.jpg",
+      "PackagePath": "staticwebassets\\images\\PopularLocations\\ephesus-1120985_640.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\PopularLocations\\izmir-116616_640.jpg",
+      "PackagePath": "staticwebassets\\images\\PopularLocations\\izmir-116616_640.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\PopularLocations\\nature-2310236_640.jpg",
+      "PackagePath": "staticwebassets\\images\\PopularLocations\\nature-2310236_640.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\PopularLocations\\trabzon-819335_640.jpg",
+      "PackagePath": "staticwebassets\\images\\PopularLocations\\trabzon-819335_640.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\PopularLocations\\tunceli-859423_640.jpg",
+      "PackagePath": "staticwebassets\\images\\PopularLocations\\tunceli-859423_640.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\PopularLocations\\view-7670868_640.jpg",
+      "PackagePath": "staticwebassets\\images\\PopularLocations\\view-7670868_640.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\TopProperties\\p1.jpg",
+      "PackagePath": "staticwebassets\\images\\TopProperties\\p1.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\TopProperties\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\TopProperties\\p2.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\TopProperties\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\TopProperties\\p3.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\TopProperties\\p4.jpg",
+      "PackagePath": "staticwebassets\\images\\TopProperties\\p4.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\TopProperties\\p5.jpg",
+      "PackagePath": "staticwebassets\\images\\TopProperties\\p5.jpg"
+    },
+    {
+      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\images\\TopProperties\\p6.jpg",
+      "PackagePath": "staticwebassets\\images\\TopProperties\\p6.jpg"
+    },
+    {
       "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -947,30 +1003,6 @@
     {
       "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\contact.html",
       "PackagePath": "staticwebassets\\starter\\contact.html"
-    },
-    {
-      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p1.jpg",
-      "PackagePath": "staticwebassets\\starter\\images\\p1.jpg"
-    },
-    {
-      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p2.jpg",
-      "PackagePath": "staticwebassets\\starter\\images\\p2.jpg"
-    },
-    {
-      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p3.jpg",
-      "PackagePath": "staticwebassets\\starter\\images\\p3.jpg"
-    },
-    {
-      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p4.jpg",
-      "PackagePath": "staticwebassets\\starter\\images\\p4.jpg"
-    },
-    {
-      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p5.jpg",
-      "PackagePath": "staticwebassets\\starter\\images\\p5.jpg"
-    },
-    {
-      "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\images\\p6.jpg",
-      "PackagePath": "staticwebassets\\starter\\images\\p6.jpg"
     },
     {
       "Id": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\wwwroot\\starter\\index.html",
