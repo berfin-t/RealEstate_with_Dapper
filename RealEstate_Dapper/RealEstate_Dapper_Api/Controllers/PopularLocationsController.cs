@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using RealEstate_Dapper_Api.Dtos.BottomGridDtos;
 using RealEstate_Dapper_Api.Dtos.PopularLocationDtos;
 using RealEstate_Dapper_Api.Repositories.Interfaces;
 
