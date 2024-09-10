@@ -9,6 +9,6 @@ namespace RealEstate_Dapper_Api.Repositories.Interfaces
         void CreateServiceAsync(CreateServiceDto createServiceDto);
         void UpdateServiceAsync(UpdateServiceDto updateServiceDto);
         void DeleteServiceAsync(int id);
-        Task<GetByIdServiceDto> GetService(int id);
+        Task<GetByIdServiceDto> GetServiceByIdAsync(int id);
     }
 }

@@ -33,7 +33,7 @@ namespace RealEstate_Dapper_Api.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetServiceById(int id)
         {
-            var value = await _serviceRepository.GetService(id);
+            var value = await _serviceRepository.GetServiceByIdAsync(id);
             return Ok(value);
         }
 

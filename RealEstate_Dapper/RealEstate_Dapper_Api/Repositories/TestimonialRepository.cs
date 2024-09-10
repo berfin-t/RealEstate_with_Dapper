@@ -51,7 +51,7 @@ namespace RealEstate_Dapper_Api.Repositories
             }
         }
 
-        public async Task<GetByIdTestimonialDto> GetTestimonial(int id)
+        public async Task<GetByIdTestimonialDto> GetTestimonialByIdAsync(int id)
         {
             string query = "Select * From Testimonial Where TestimonialID=@testimonialID";
             var parameters = new DynamicParameters();

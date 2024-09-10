@@ -17,7 +17,7 @@ namespace RealEstate_Dapper_Api.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(CreatePopularLocationDto createPopularLocationDto)
+        public async Task<IActionResult> CreatePopularLocation(CreatePopularLocationDto createPopularLocationDto)
         {
             _popularLocationRepository.CreatePopularLocationAsync(createPopularLocationDto);
             return Ok("Popüler Lokasyonlar başarılı bir şekilde eklendi");

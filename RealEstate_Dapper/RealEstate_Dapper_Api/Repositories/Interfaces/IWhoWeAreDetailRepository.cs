@@ -10,6 +10,6 @@ namespace RealEstate_Dapper_Api.Repositories.Interfaces
         void CreateWhoWeAreDtoAsync(CreateWhoWeAreDetailDto createWhoWeAreDetailDto);
         void UpdateWhoWeAreDetailAsync(UpdateWhoWeAreDetailDto updateWhoWeAreDetailDto);
         void DeleteWhoWeAreDetailAsync(int id);
-        Task<GetByIdWhoWeAreDetailDto> GetWhoWeAreDetail(int id);
+        Task<GetByIdWhoWeAreDetailDto> GetWhoWeAreDetailByIdAsync(int id);
     }
 }

@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{93B1A378-A935-4559-BA2E-7225D58E5C9C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|d:\\github\\realestate_with_dapper\\realestate_dapper\\realestate_dapper_api\\repositories\\statisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B1A378-A935-4559-BA2E-7225D58E5C9C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\statisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93B1A378-A935-4559-BA2E-7225D58E5C9C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|d:\\github\\realestate_with_dapper\\realestate_dapper\\realestate_dapper_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B1A378-A935-4559-BA2E-7225D58E5C9C}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B901466-9651-4088-A973-8C79EBF0C14D}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|d:\\github\\realestate_with_dapper\\realestate_dapper\\realestate_dapper_ui\\views\\shared\\components\\_adminpagesidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B901466-9651-4088-A973-8C79EBF0C14D}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\shared\\components\\_adminpagesidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B901466-9651-4088-A973-8C79EBF0C14D}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|d:\\github\\realestate_with_dapper\\realestate_dapper\\realestate_dapper_ui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4B901466-9651-4088-A973-8C79EBF0C14D}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 384,
-          "SelectedChildIndex": 32,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -143,57 +126,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StatisticsController.cs",
-              "DocumentMoniker": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_Api\\Controllers\\StatisticsController.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Controllers\\StatisticsController.cs",
-              "ToolTip": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_Api\\Controllers\\StatisticsController.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Controllers\\StatisticsController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAD4vy8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:08:16.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminPageSidebarComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminPageSidebarComponentPartial\\Default.cshtml",
-              "ToolTip": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminPageSidebarComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Shared\\Components\\_AdminPageSidebarComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T13:54:35.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_UI\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T13:53:40.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StatisticsRepository.cs",
-              "DocumentMoniker": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_Api\\Repositories\\StatisticsRepository.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\StatisticsRepository.cs",
-              "ToolTip": "D:\\github\\RealEstate_with_Dapper\\RealEstate_Dapper\\RealEstate_Dapper_Api\\Repositories\\StatisticsRepository.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\StatisticsRepository.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAEwHUAAACMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T12:42:14.242Z",
-              "EditorCaption": ""
             }
           ]
         },

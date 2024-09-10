@@ -49,7 +49,7 @@ namespace RealEstate_Dapper_Api.Repositories
             }
         }
 
-        public async Task<GetByIdServiceDto> GetService(int id)
+        public async Task<GetByIdServiceDto> GetServiceByIdAsync(int id)
         {
             string query = "Select * From Service Where ServiceID=@serviceID";
             var parameters = new DynamicParameters();

@@ -8,6 +8,6 @@ namespace RealEstate_Dapper_Api.Repositories.Interfaces
         void CreateEmployeeAsync(CreateEmployeeDto createEmployeeDto);
         void UpdateEmployeeAsync(UpdateEmployeeDto updateEmployeeDto);
         void DeleteEmployeeAsync(int id);
-        Task<GetByIdEmployeeDto> GetEmployee(int id);
+        Task<GetByIdEmployeeDto> GetEmployeeByIdAsync(int id);
     }
 }

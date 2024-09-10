@@ -223,7 +223,7 @@
   },
   {
     "ContainingType": "RealEstate_Dapper_Api.Controllers.PopularLocationsController",
-    "Method": "Create",
+    "Method": "CreatePopularLocation",
     "RelativePath": "api/PopularLocations",
     "HttpMethod": "POST",
     "IsController": true,

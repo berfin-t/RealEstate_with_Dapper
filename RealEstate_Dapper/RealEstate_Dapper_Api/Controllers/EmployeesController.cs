@@ -33,7 +33,7 @@ namespace RealEstate_Dapper_Api.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetEmployeeById(int id)
         {
-            var value = await _employeeRepository.GetEmployee(id);
+            var value = await _employeeRepository.GetEmployeeByIdAsync(id);
             return Ok(value);
         }
 

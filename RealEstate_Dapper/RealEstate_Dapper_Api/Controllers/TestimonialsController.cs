@@ -33,7 +33,7 @@ namespace RealEstate_Dapper_Api.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetTestimonialById(int id)
         {
-            var value = await _testimonialRepository.GetTestimonial(id);
+            var value = await _testimonialRepository.GetTestimonialByIdAsync(id);
             return Ok(value);
         }
 

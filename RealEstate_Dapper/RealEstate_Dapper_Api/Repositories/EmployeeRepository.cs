@@ -52,7 +52,7 @@ namespace RealEstate_Dapper_Api.Repositories
             }
         }
 
-        public async Task<GetByIdEmployeeDto> GetEmployee(int id)
+        public async Task<GetByIdEmployeeDto> GetEmployeeByIdAsync(int id)
         {
             string query = "Select * From Employee Where EmployeeID=@employeeID";
             var parameters = new DynamicParameters();

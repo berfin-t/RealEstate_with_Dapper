@@ -33,7 +33,7 @@ namespace RealEstate_Dapper_Api.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetBottomGridById(int id)
         {
-            var value = await _bottomGridRepository.GetBottomGrid(id);
+            var value = await _bottomGridRepository.GetBottomGridByIdAsync(id);
             return Ok(value);
         }
 

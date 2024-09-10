@@ -52,7 +52,7 @@ namespace RealEstate_Dapper_Api.Repositories
             }
         }
 
-        public async Task<GetByIdWhoWeAreDetailDto> GetWhoWeAreDetail(int id)
+        public async Task<GetByIdWhoWeAreDetailDto> GetWhoWeAreDetailByIdAsync(int id)
         {
             string query = "Select * From WhoWeAreDetail Where WhoWeAreDetailID=@whoWeAreDetailID";
             var parameters = new DynamicParameters();
