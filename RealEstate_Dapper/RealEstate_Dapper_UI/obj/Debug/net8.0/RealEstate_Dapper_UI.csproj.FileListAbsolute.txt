@@ -450,3 +450,4 @@ D:\github\RealEstate_with_Dapper\RealEstate_Dapper\RealEstate_Dapper_UI\obj\Debu
 D:\github\RealEstate_with_Dapper\RealEstate_Dapper\RealEstate_Dapper_UI\obj\Debug\net8.0\RealEstate_Dapper_UI.pdb
 D:\github\RealEstate_with_Dapper\RealEstate_Dapper\RealEstate_Dapper_UI\obj\Debug\net8.0\RealEstate_Dapper_UI.genruntimeconfig.cache
 D:\github\RealEstate_with_Dapper\RealEstate_Dapper\RealEstate_Dapper_UI\obj\Debug\net8.0\ref\RealEstate_Dapper_UI.dll
+D:\github\RealEstate_with_Dapper\RealEstate_Dapper\RealEstate_Dapper_UI\bin\Debug\net8.0\libman.json
