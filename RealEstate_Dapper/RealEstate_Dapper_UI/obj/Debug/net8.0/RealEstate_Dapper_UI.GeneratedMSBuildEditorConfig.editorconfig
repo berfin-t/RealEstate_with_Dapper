@@ -218,6 +218,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/github/RealEstate_with_Dapper/RealEstate_Dapper/RealEstate_Dapper_UI/Views/Test/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/github/RealEstate_with_Dapper/RealEstate_Dapper/RealEstate_Dapper_UI/Views/WhoWeAre/CreateWhoWeAreDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2hvV2VBcmVcQ3JlYXRlV2hvV2VBcmVEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
